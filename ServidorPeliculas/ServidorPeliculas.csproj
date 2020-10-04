@@ -111,5 +111,8 @@
   <ItemGroup>
     <Resource Include="palomitas.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icono.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

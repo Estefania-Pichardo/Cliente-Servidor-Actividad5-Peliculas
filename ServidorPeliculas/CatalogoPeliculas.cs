@@ -36,6 +36,7 @@ namespace ServidorPeliculas
             if(pelicula!=null)
             {
                 ListaPeliculas.Remove(pelicula);
+                Guardar();
             }
         }
 
